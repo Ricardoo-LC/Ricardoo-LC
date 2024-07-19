@@ -20,7 +20,7 @@
 - :trophy: Planificación y desarrollo de soluciones tecnológicas
 - :technologist: **Actualmente trabajo en** `Frontend Development` **&** `Full Stack Javascript`
 - :boom: ¡Trayectoria en el desarrollo de aplicaciones y paginas web!
-- :email: No dudes en **contactarme** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:richard.usui@gmail.com)
+- :email: No dudes en **contactarme** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=richard.usui&amp;color=EA4335&amp;style=flat-square)](mailto:richard.usui@gmail.com)
 - :nerd_face: Siempre creo que `"Eres lo que amas"`
 
 <br>
