@@ -81,9 +81,6 @@
 <br>
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Contactame
-
-<br/>
-
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="www.linkedin.com/in/ricardo-lópez-camacho-753639173" target="_blank"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:richard.usui@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 
