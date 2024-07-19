@@ -16,12 +16,12 @@
 
 <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
+- :school: Desarrollador experimentado
+- :trophy: Planificación y desarrollo de soluciones tecnológicas
+- :technologist: **Actualmente trabajo en** `Frontend Development` **&** `Full Stack Javascript`
+- :boom: ¡Trayectoria en el desarrollo de aplicaciones y paginas web!
+- :email: No dudes en **contactarme** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:richard.usui@gmail.com)
+- :nerd_face: Siempre creo que `"Eres lo que amas"`
 
 <br>
 
