@@ -101,6 +101,3 @@
 </p>
 
 ------
-Credit: [Elanza-48](https://github.com/Elanza-48)
-
-Last Edited on: 09/09/2021
