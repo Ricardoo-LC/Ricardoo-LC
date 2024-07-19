@@ -84,12 +84,10 @@
 
 <br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="www.linkedin.com/in/ricardo-lópez-camacho-753639173"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="www.linkedin.com/in/ricardo-lópez-camacho-753639173" target="_blank"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:richard.usui@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 
-</br>
-</br>
-----
+------
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
