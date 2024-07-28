@@ -76,7 +76,7 @@
 ![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
 ![Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat-square&logo=aws-amplify&logoColor=white)
 ![Cloudwatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
-![RDS](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=flat-square&logo=amazon-rds&logoColor=white)
+![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Herramientas y Utilidades
 
