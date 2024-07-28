@@ -101,6 +101,7 @@
 
 ![AtomicDesing](https://img.shields.io/badge/Atomic%20Design-DD0031?style=flat-square&logo=atomicdesign&logoColor=white)
 ![CleanArquitecture](https://img.shields.io/badge/Clean%20Architecture-007396?style=flat-square&logo=cleanarchitecture&logoColor=white)
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-000000?style=flat-square&logo=hexagon&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
