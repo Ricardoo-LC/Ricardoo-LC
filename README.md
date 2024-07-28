@@ -20,7 +20,7 @@
 - :trophy: Planificación y desarrollo de soluciones tecnológicas
 - :technologist: **Actualmente trabajo en** `Frontend Development` **&** `Full Stack Javascript`
 - :boom: ¡Trayectoria en el desarrollo de aplicaciones y paginas web!
-- :email: No dudes en **contactarme** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=richard.usui&amp;color=EA4335&amp;style=flat-square)](mailto:richard.usui@gmail.com)
+- :email: No dudes en **contactarme** [![Send me Email](https://img.shields.io/static/v1?label=email&message=richard.usui&color=EA4335&style=flat-square)](https://mail.google.com/mail/?view=cm&fs=1&to=richard.usui@gmail.com)
 - :nerd_face: Siempre creo que `"Eres lo que amas"`
 
 <br>
@@ -115,10 +115,7 @@
 <br>
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Contactame
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ricardo-lópez-camacho-753639173" target="_blank"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a></a> &nbsp;&nbsp;&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=richard.usui@gmail.com" target="_blank">
-  <img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-</a> &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ricardo-lópez-camacho-753639173" target="_blank"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a></a> &nbsp;&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=richard.usui@gmail.com" target="_blank"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 
 ------
 
